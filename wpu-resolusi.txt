@@ -1,2 +1,3 @@
 WPU resolusi
 - belajar github
+- buat source code
